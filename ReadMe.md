@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Choi Hwee!
 I'm a graduate from Nanyang Polytechnic with a diploma in Business and Financial Technology.<br>I'm currently learning Typescript and React to aid in my personal project, a web application designed for simple transitioning from manual accounting to digitalised and automated bookkeeping.<br>
 
 
